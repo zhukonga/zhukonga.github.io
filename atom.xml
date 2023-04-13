@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>zhukong</title>
+  <title>住空 -认识自己，认识世界</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-13T06:59:26.683Z</updated>
+  <updated>2023-04-13T14:42:40.283Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>zhukong</name>
+    <name>住空</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="http://example.com/posts/5b625892/"/>
     <id>http://example.com/posts/5b625892/</id>
     <published>2023-04-12T01:49:25.000Z</published>
-    <updated>2023-04-13T06:59:26.683Z</updated>
+    <updated>2023-04-13T14:42:40.283Z</updated>
     
     <content type="html"><![CDATA[<h2 id="j"><a href="#j" class="headerlink" title="j"></a>j</h2><p>今日周三</p>]]></content>
     
@@ -34,8 +34,12 @@
     
     
     
+    <category term="Python" scheme="http://example.com/categories/Python/"/>
     
-    <category term="-null" scheme="http://example.com/tags/null/"/>
+    
+    <category term="学习笔记" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
     
   </entry>
   
@@ -44,7 +48,7 @@
     <link href="http://example.com/posts/f6b2150b/"/>
     <id>http://example.com/posts/f6b2150b/</id>
     <published>2023-04-11T06:50:58.000Z</published>
-    <updated>2023-04-13T06:59:26.683Z</updated>
+    <updated>2023-04-13T14:41:47.760Z</updated>
     
     <content type="html"><![CDATA[<h1 id="JAVA基础"><a href="#JAVA基础" class="headerlink" title="JAVA基础"></a>JAVA基础</h1><h3 id="www"><a href="#www" class="headerlink" title="www"></a>www</h3><p>halhrb</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello,world&quot;</span>)</span><br></pre></td></tr></table></figure><p>尝试搭建一个美观的博客</p>]]></content>
     
@@ -56,6 +60,12 @@
     
     
     
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="java" scheme="http://example.com/tags/java/"/>
+    
+    <category term="学习笔记" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   

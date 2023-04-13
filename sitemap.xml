@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/04/12/python%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://example.com/posts/5b625892/</loc>
     
     <lastmod>2023-04-12</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/04/11/Java%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>http://example.com/posts/f6b2150b/</loc>
     
     <lastmod>2023-04-11</lastmod>
     
@@ -22,7 +22,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2023-04-12</lastmod>
+    <lastmod>2023-04-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,7 +30,7 @@
   
   <url>
     <loc>http://example.com/tags/null/</loc>
-    <lastmod>2023-04-12</lastmod>
+    <lastmod>2023-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

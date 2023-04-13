@@ -1,5 +1,5 @@
 http://example.com/categortes/index.html
-http://example.com/posts/f6b2150b/
 http://example.com/posts/5b625892/
+http://example.com/posts/f6b2150b/
 http://example.com/
 http://example.com/tags/null/

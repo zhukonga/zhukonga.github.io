@@ -1,7 +1,7 @@
-http://example.com/categories/index.html
-http://example.com/tags/index.html
 http://example.com/posts/5b625892/
 http://example.com/posts/f6b2150b/
+http://example.com/categories/index.html
+http://example.com/tags/index.html
 http://example.com/
 http://example.com/tags/java/
 http://example.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
